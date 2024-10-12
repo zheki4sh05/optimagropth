@@ -1,4 +1,4 @@
-package com.optimagrowth.licensing_service.model;
+package com.optimagrowth.licensingservice.model;
 
 import lombok.*;
 import org.springframework.hateoas.*;

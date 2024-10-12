@@ -1,4 +1,4 @@
-package com.optimagrowth.licensing_service.config;
+package com.optimagrowth.licensingservice.config;
 
 import org.springframework.boot.context.properties.*;
 import org.springframework.context.annotation.*;

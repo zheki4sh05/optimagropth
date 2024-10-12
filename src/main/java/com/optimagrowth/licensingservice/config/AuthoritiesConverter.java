@@ -1,10 +1,12 @@
-package com.optimagrowth.organizationservice.config;
-
+package com.optimagrowth.licensingservice.config;
 
 import org.springframework.core.convert.converter.*;
 import org.springframework.security.core.*;
 import org.springframework.security.oauth2.jwt.*;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
+import java.util.*;
+import java.util.stream.*;
+
 import java.util.*;
 import java.util.stream.*;
 

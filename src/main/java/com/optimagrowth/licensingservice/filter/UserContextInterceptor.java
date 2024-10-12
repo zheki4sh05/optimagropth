@@ -1,4 +1,4 @@
-package com.optimagrowth.licensing_service.filter;
+package com.optimagrowth.licensingservice.filter;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
