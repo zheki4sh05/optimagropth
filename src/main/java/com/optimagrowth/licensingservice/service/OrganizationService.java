@@ -1,4 +1,4 @@
-package com.optimagrowth.licensing_service.service;
+package com.optimagrowth.licensingservice.service;
 
 import org.springframework.stereotype.*;
 

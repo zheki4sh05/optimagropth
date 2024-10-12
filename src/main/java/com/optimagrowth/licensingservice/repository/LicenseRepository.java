@@ -1,6 +1,7 @@
-package com.optimagrowth.licensing_service.repository;
+package com.optimagrowth.licensingservice.repository;
 
-import com.optimagrowth.licensing_service.model.*;
+
+import com.optimagrowth.licensingservice.model.*;
 import org.springframework.data.repository.*;
 
 import java.util.*;

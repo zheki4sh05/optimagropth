@@ -1,7 +1,8 @@
-package com.optimagrowth.licensing_service.service.client;
+package com.optimagrowth.licensingservice.service.client;
 
 
-import com.optimagrowth.licensing_service.model.*;
+
+import com.optimagrowth.licensingservice.model.*;
 import org.springframework.beans.factory.annotation.*;
 import org.springframework.cloud.client.*;
 import org.springframework.cloud.client.discovery.*;
